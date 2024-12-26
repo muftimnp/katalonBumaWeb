@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign In with Microsoft</name>
+   <tag></tag>
+   <elementGuidId>32a267df-922e-457a-8316-56f63d8c2337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-md.btn-primary.justify-content-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Sign In with Microsoft&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8b32dee5-5e05-4f95-b3a4-8096ea21f7e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-md btn-primary justify-content-center</value>
+      <webElementGuid>70e5991c-35a2-4065-8d7e-71bf1d2c9fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Sign In with Microsoft </value>
+      <webElementGuid>c1a0d1a3-5e41-4fcb-94ce-4b738b546c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;auth&quot;]/div[@class=&quot;auth__container&quot;]/div[@class=&quot;auth__content&quot;]/div[@class=&quot;sign-in&quot;]/div[@class=&quot;d-grid gap-2&quot;]/button[@class=&quot;btn btn-md btn-primary justify-content-center&quot;]</value>
+      <webElementGuid>72ac2210-ad0d-45d6-8653-bb70858ad4cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>e5417bed-f594-4287-9e76-337704712ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>213e8fd1-8ea0-41a6-90e5-41d932353a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '   Sign In with Microsoft ' or . = '   Sign In with Microsoft ')]</value>
+      <webElementGuid>b4a4b9ec-3e10-458b-8fc4-2d6f52e83d5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
